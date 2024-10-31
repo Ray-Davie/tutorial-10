@@ -127,4 +127,3 @@ function calDays(calDate) {
 
   return htmlCode;
 }
-
